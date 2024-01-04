@@ -6,9 +6,7 @@ virtualenv -p python3 envname
 #activate env
 source/envname/bin/activate
 
-git clone 
-
-
+git clone https://github.com/a6667s/assignmant.git
 
 Install dependencies:
 pip install -r requirements.txt
