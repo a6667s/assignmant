@@ -1,0 +1,9 @@
+version: 3.11
+Service:
+django:
+build:
+port:
+8000:8000
+
+
+#docker compose up-build
